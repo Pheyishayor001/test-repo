@@ -1,1 +1,3 @@
 # test-repo
+This is a demo session with Doc Njila.
+I am a very dedicated person...
